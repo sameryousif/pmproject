@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch packMan",
+            "request": "launch",
+            "mainClass": "packMan",
+            "projectName": "pmproject_a6dd2823"
+        },
+        {
+            "type": "java",
+            "name": "Launch MouseListenerExample2",
+            "request": "launch",
+            "mainClass": "MouseListenerExample2",
+            "projectName": "pmproject_a6dd2823"
+        },
+        {
+            "type": "java",
+            "name": "Launch frame",
+            "request": "launch",
+            "mainClass": "frame",
+            "projectName": "pmproject_a6dd2823"
+        },
+        {
+            "type": "java",
+            "name": "Launch jalilo",
+            "request": "launch",
+            "mainClass": "jalilo",
+            "projectName": "pmproject_a6dd2823"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch main1",
+            "request": "launch",
+            "mainClass": "main1",
+            "projectName": "pmproject_a6dd2823"
+        }
+    ]
+}
